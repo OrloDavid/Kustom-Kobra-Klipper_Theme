@@ -27,11 +27,11 @@ Installing this custom theme is straightforward. Since there's no installer, you
 
 1. **Backup Your Current Theme**: Before proceeding, it's crucial to back up your current theme. Navigate to the location of your Klipper's `.theme` folder and copy it to a safe location.
 
-2. **Download**: Download the `custom-theme.zip` file from this repository and unzip it to access the new `.theme` folder.
+2. **Download**: Download the '.theme` folder.
 
-3. **Replace the Theme Folder**: Navigate to your Klipper interface directory. Locate the existing `.theme` folder and replace it with the downloaded one. Ensure you have the proper permissions to make these changes.
+3. **Replace the Theme Folder**: Follow instructions on the Klipper site to show .theme folder from within the web interface or replace files locally on the host machine @ /home/ 'youruser' /printer_data/config/.theme
 
-4. **Restart Klipper**: For the changes to take effect, restart your Klipper interface. This can typically be done via your printer's control interface or by restarting the printer itself.
+4. **Refresh Broswer... Maybe**: On the host Linux box I need to refresh the page, on Windows I don't, both are using Microsoft Edge Browser
 
 ## Customization
 
