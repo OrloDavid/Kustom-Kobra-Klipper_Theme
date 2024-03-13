@@ -1,7 +1,24 @@
-/* .
-Mainsail Dark Theme
-Anycubic Kobra
+/*
+    Kustom-Kobra Klipper Theme
+    ---------------------------
+
+    Welcome to the Kustom-Kobra Klipper Theme, where the electric spirit of the 80's meets the cutting-edge technology of today's 3D printing. This theme is infused with vibrant pinks and blues set against a deep, dark backdrop, offering both a nostalgic nod to the past and a sleek, modern interface for your printer.
+
+    Customization:
+    - We've included detailed comments throughout this CSS file to help guide your customization journey. Whether you're adjusting the color palette, tweaking the layout, or personalizing fonts, these notes are here to assist.
+
+    Tools Used:
+    - Graphics: Crafted with Corel Paint Shop Pro, ensuring each visual element resonates with the theme's vibrant aesthetic.
+    - SVG Edits: Fine-tuned with Inkscape, providing crisp, scalable graphics that enhance the overall user experience.
+
+    Accessibility:
+    - Designed with accessibility in mind, this theme has been tested for optimal readability and ease of use, making sure it's as practical as it is visually appealing.
+
+    Embrace the dynamic, colorful world of the 80's with the Kustom-Kobra Klipper Theme. Your printer's interface is just a few tweaks away from being a showcase of retro-futuristic design.
+
+    Author: Driven by a passion for the 80's and the endless possibilities of 3D printing, this theme is a tribute to innovation and style.
 */
+
 
 :root {
     --Primary: #fb00ff; /*Pink*/
