@@ -39,9 +39,9 @@
 
 
 html {
-    /* overflow-y: hidden !important;  /* Hide vertical scrollbar */
-    /* overflow-x: hidden !important;  /* Hide horizontal scrollbar */
-   scrollbar-color: var(--Black) var( --Black);  /* Theme Side Scrollbar, Set HTML & Body to catch all scrollbars */
+    /* overflow-y: hidden !important;  /* Hide vertical scrollbar */ */
+    /* overflow-x: hidden !important;  /* Hide horizontal scrollbar */ */
+   scrollbar-color: var(--Black) var( --Black);  /* Theme Side Scrollbar, Set HTML & Body to catch all scrollbars */ 
    scrollbar-width: thin !important; /* Creates a thinner Scrollbar, good for touchscreens and using a scroll wheel mouse which don't need it */
 }
 
@@ -63,8 +63,8 @@ header {
 }
 
 .v-sheet {
-   background-color: var(--Black);   /* Catch All */
-    border-color: var(--Black);   /* Catch All */
+   background-color: var(--Black);   /*  Catch All  */
+    border-color: var(--Black);   /*  Catch All  */
 }
 
 .v-btn--block.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default{
@@ -79,7 +79,7 @@ header {
 
 .theme--dark.v-btn.v-btn--has-bg{
      color: var(--White) !important; /* Text on Buttons - Enabled - All Including Macro Buttons*/
-    /background-color: var(--Black) !important;  /* Buttons - Enabled - All Including Macro Buttons*/
+    background-color: var(--Black) !important;  /* Buttons - Enabled - All Including Macro Buttons*/
 }
 
 .theme--dark.v-btn.v-btn--disabled.v-btn--has-bg  {
@@ -137,7 +137,6 @@ header {
   color: var(--Text) !important; /*Text and Overlay on Left Menu*/
   border-color: var(--LtGrey) !important; /*Item Selection / Outline on Left menu and Main Content*/
 }
-
 
 .v-application .warning {
     background-color: var(--Nearblack) !important; /* App Warning Dialogs ??? */
